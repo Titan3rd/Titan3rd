@@ -1,16 +1,52 @@
-## Hi there 👋
+<h1 align="center">Hi 👋</h1>
+<h3 align="center">Java Full Stack Developer | IAM Enthusiast | DevSecOps Learner</h3>
 
-<!--
-**Titan3rd/Titan3rd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🔭 I’m currently working on:
+- Building a **homelab setup** using Docker, Proxmox & more
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m learning:
+- **IAM concepts** like LDAP, OAuth2, SSO, and Spring Security
+- **DevOps tools** like GitLab CI/CD, Docker, and monitoring stacks
+
+💼 I'm currently:
+- An Associate Consultant at a cybersecurity firm
+- Have Been a FullStack Developer
+- Working with Java, Spring Boot, REST APIs, and IAM solutions
+
+👯 I’m looking to collaborate on:
+- Secure microservices
+- Real-time apps using LLMs and game engines
+
+📫 How to reach me:
+- Email: **sachuvnair08@gmail.com**
+
+⚡ Fun fact:  
+I balance my developer life with **calisthenics training** and love self-hosting tools for privacy!
+
+---
+
+### 🛠️ Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-000000?style=flat&logo=unrealengine&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+
+![Sachu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sachuVN&show_icons=true&theme=radical)
+
+---
+
+### 🧠 Quotes I Live By
+
+> *“Discipline equals freedom.”* – Jocko Willink  
+> *"Stay curious. Keep building. Help others."*
+
+---

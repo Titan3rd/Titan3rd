@@ -35,12 +35,16 @@ I balance my developer life with **calisthenics training** and love self-hosting
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-000000?style=flat&logo=unrealengine&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-333333?style=flat&logo=proxmox&logoColor=E57000)
+![VM](https://img.shields.io/badge/Virtual_Machine-005f73?style=flat&logo=linux&logoColor=white)
+![Gaming](https://img.shields.io/badge/Gaming-9146FF?style=flat&logo=steam&logoColor=white)
+
 
 ---
 
 ### 📈 GitHub Stats
 
-![Sachu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sachuVN&show_icons=true&theme=radical)
+![Sachu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Titan3rd&show_icons=true&theme=radical)
 
 ---
 

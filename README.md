@@ -3,8 +3,41 @@
 
 ---
 
-🔭 I’m currently working on:
-- Building a **homelab setup** using Docker, Proxmox & more
+🚀 Current Project
+
+Building **LMNT**, a modular Java web framework built on Spring Boot.
+
+Features include:
+- Modular architecture for enterprise apps
+- Thymeleaf + HTMX dynamic UI
+- Built-in authentication and layouts
+- Export engine (PDF/XLS)
+- Self-hosted infrastructure support
+
+Goal: Enable teams to build enterprise web apps rapidly using a reusable framework.
+
+🔭 I run a **self-hosted homelab cluster** powered by Proxmox with two dedicated environments.
+
+🧑‍💻 **Development Infrastructure**
+Used for backend engineering experiments and platform development.
+
+- Java development stack
+- MySQL
+- Redis
+- MinIO (S3 compatible object storage)
+- Ollama (local LLM experimentation)
+- Dockerized services for testing architectures
+- Infrastructure used while building my **LMNT web framework**
+
+🎬 **Personal Services Stack**
+A private media and automation environment.
+
+- Jellyfin media server
+- *arr automation stack (Sonarr, Radarr, etc.)
+- n8n workflow automation
+- Self-hosted tools for privacy and experimentation
+
+The homelab allows me to **prototype architectures, test deployments, and run private services** in a fully controlled environment.
 
 🌱 I’m learning:
 - **IAM concepts** like LDAP, OAuth2, SSO, and Spring Security
@@ -18,6 +51,22 @@
 👯 I’m looking to collaborate on:
 - Secure microservices
 - Real-time apps using LLMs and game engines
+
+🏠 Self-Hosting & Infrastructure
+
+I enjoy running my own infrastructure and experimenting with:
+
+- Proxmox virtualization
+- Docker containers
+- Private cloud storage
+- Local AI (Ollama)
+- Monitoring & automation
+
+🧠 Current Focus
+
+- Building enterprise-grade developer frameworks
+- Learning IAM and identity architecture
+- Designing scalable backend systems
 
 📫 How to reach me:
 - Email: **sachuvnair08@gmail.com**

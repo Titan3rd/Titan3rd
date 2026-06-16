@@ -105,7 +105,6 @@ This setup helps me prototype architectures, test deployments, and understand re
 ## 📫 Reach Me
 
 * Email: **[sachuvnair08@gmail.com](mailto:sachuvnair08@gmail.com)**
-* LinkedIn: **Add your LinkedIn URL here**
 
 ---
 
